@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\C#-Intro-Reference-Value-Types-Hometask\C#-Intro-Reference-Value-Types-Hometask\bin\Debug\net8.0\C#-Intro-Reference-Value-Types-Hometask.exe
+C:\Users\user\source\repos\C#-Intro-Reference-Value-Types-Hometask\C#-Intro-Reference-Value-Types-Hometask\bin\Debug\net8.0\C#-Intro-Reference-Value-Types-Hometask.deps.json
+C:\Users\user\source\repos\C#-Intro-Reference-Value-Types-Hometask\C#-Intro-Reference-Value-Types-Hometask\bin\Debug\net8.0\C#-Intro-Reference-Value-Types-Hometask.runtimeconfig.json
+C:\Users\user\source\repos\C#-Intro-Reference-Value-Types-Hometask\C#-Intro-Reference-Value-Types-Hometask\bin\Debug\net8.0\C#-Intro-Reference-Value-Types-Hometask.dll
+C:\Users\user\source\repos\C#-Intro-Reference-Value-Types-Hometask\C#-Intro-Reference-Value-Types-Hometask\bin\Debug\net8.0\C#-Intro-Reference-Value-Types-Hometask.pdb
+C:\Users\user\source\repos\C#-Intro-Reference-Value-Types-Hometask\C#-Intro-Reference-Value-Types-Hometask\obj\Debug\net8.0\C#-Intro-Reference-Value-Types-Hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\C#-Intro-Reference-Value-Types-Hometask\C#-Intro-Reference-Value-Types-Hometask\obj\Debug\net8.0\C#-Intro-Reference-Value-Types-Hometask.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\C#-Intro-Reference-Value-Types-Hometask\C#-Intro-Reference-Value-Types-Hometask\obj\Debug\net8.0\C#-Intro-Reference-Value-Types-Hometask.AssemblyInfo.cs
+C:\Users\user\source\repos\C#-Intro-Reference-Value-Types-Hometask\C#-Intro-Reference-Value-Types-Hometask\obj\Debug\net8.0\C#-Intro-Reference-Value-Types-Hometask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#-Intro-Reference-Value-Types-Hometask\C#-Intro-Reference-Value-Types-Hometask\obj\Debug\net8.0\C#-Intro-Reference-Value-Types-Hometask.dll
+C:\Users\user\source\repos\C#-Intro-Reference-Value-Types-Hometask\C#-Intro-Reference-Value-Types-Hometask\obj\Debug\net8.0\refint\C#-Intro-Reference-Value-Types-Hometask.dll
+C:\Users\user\source\repos\C#-Intro-Reference-Value-Types-Hometask\C#-Intro-Reference-Value-Types-Hometask\obj\Debug\net8.0\C#-Intro-Reference-Value-Types-Hometask.pdb
+C:\Users\user\source\repos\C#-Intro-Reference-Value-Types-Hometask\C#-Intro-Reference-Value-Types-Hometask\obj\Debug\net8.0\C#-Intro-Reference-Value-Types-Hometask.genruntimeconfig.cache
+C:\Users\user\source\repos\C#-Intro-Reference-Value-Types-Hometask\C#-Intro-Reference-Value-Types-Hometask\obj\Debug\net8.0\ref\C#-Intro-Reference-Value-Types-Hometask.dll
